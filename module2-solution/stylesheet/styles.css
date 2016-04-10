@@ -18,8 +18,10 @@ p {
 
 /* section heading */
  h2 {
+    border: 10px solid #ccc;
     background-color: tomato;
     text-align: right;
+    margin: 50px;
   }
 
 /* Simple Responsive Framework. */
