@@ -18,10 +18,7 @@ p {
 
 /* section heading */
  .h2 {
-    background-color: #A52A2A;
- -  position: relative;
- -  top: 65px;
- -  left: 65px;
+    text-align: right;
   }
 
 /* Simple Responsive Framework. */
