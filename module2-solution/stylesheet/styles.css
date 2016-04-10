@@ -18,6 +18,7 @@ p {
 
 /* section heading */
  h2 {
+    background-color: orange;
     text-align: right;
   }
 
