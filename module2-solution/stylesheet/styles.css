@@ -9,6 +9,7 @@ p {
   border: 5px #ccc;
   background-color: #E6E6FA;
   width: 100%;
+  height: 100px;
   margin-right: auto;
   margin-left: auto;
   font-family: Helvetica;
@@ -21,7 +22,6 @@ p {
     border: 10px solid #ccc;
     background-color: tomato;
     text-align: right;
-    padding-left: 50px;
   }
 
 /* Simple Responsive Framework. */
