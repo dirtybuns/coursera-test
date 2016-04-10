@@ -5,9 +5,11 @@
 h1 {
   margin-bottom: 15px;
 }
+div {
+  background-color: #E6E6FA;
+}
 p {
   border: 5px #ccc;
-  background-color: #E6E6FA;
   width: 100%;
   height: 100px;
   margin-right: auto;
